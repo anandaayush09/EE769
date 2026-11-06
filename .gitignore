@@ -1,0 +1,24 @@
+# Local-only folders
+_review/
+course-material/
+
+# Large image datasets (re-downloadable; see A3 README)
+A3-classification-transfer-learning/data/hymenoptera_data/
+A3-classification-transfer-learning/data/cifar-10-batches-py/
+
+# Weights and generated files
+*.pt
+*.pth
+
+# Environments and caches
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
